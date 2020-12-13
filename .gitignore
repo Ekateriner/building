@@ -1,0 +1,7 @@
+bin
+build
+lib
+external
+cmake-build-debug
+.idea
+.git
